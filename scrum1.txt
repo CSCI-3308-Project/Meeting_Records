@@ -1,0 +1,18 @@
+Scrum Meeting 1 - October 11, 2019 - Thursday, 12:00PM
+ In attendance - Joshua, CJ, Irvin, Jonathan
+ Joshua -
+  Work completed: Created Unity Project and added to repository, created Gantt chart
+  Work remaining: Will develop player character movement and interactions
+  Obstacles: Need story in order to make progress on game
+ Jonathan -
+  Work completed: Finalized game concept & scope
+  Work remaining: Will develop player-environment interaction systems
+  Obstacles:
+ Courtney -
+  Work completed: Made progress writing game story
+  Work remaining: Will finish game story, will learn Unity
+  Obstacles:
+ Irvin -
+  Work completed: Finalized game concept & scope
+  Work remaining: Will learn Unity
+  Obstacles:
