@@ -1,0 +1,18 @@
+Scrum Meeting 2 - October 18, 2018
+ In attendance - all
+ Jon -
+  Work completed: Learned unity
+  For next meeting: Work on map
+  Obstacles: Hardware failures
+ Irvin -
+  Completed: Learned unity
+  For next meeting: Item interaction systems
+  Obstacles: Hardware issues (computer overheating with Unity)
+ CJ -
+  Completed: Finished story, learned Unity
+  For next meeting: Will work on dialogue and systems to support it
+  Obstacles: Busy studying for other exams, computer has issues with Unity
+ Joshua -
+  Completed: Player movement, combat scene
+  For next meeting: Combat mechanics
+  Obstacles: Busy studying for other exams
