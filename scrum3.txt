@@ -1,0 +1,18 @@
+Scrum Meeting 3 - October 23, 2018
+ In attendance - all
+ Jon -
+  Work completed: designed part of tutorial forest scene
+  For next meeting: will flesh out tutorial forest
+  Obstacles: learning c# vs c
+ Irvin -
+  Completed: created weapons
+  For next meeting: shop
+  Obstacles: unity is complicated
+ CJ -
+  Completed: almost finished story
+  For next meeting: finish story, start implementation
+  Obstacles: illness
+ Joshua -
+  Completed: basic combat 
+  For next meeting: implementation of flannel spells, proper scene linking
+  Obstacles: will need a map
