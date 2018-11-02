@@ -1,0 +1,18 @@
+Scrum Meeting 4 1 Nov 2018 
+ In attendance - All
+ Jon -
+  Since last meeting: Started map generation
+  For next meeting: Finish map
+  Obstacles: Unity is slow
+ Josh - 
+  Since last meeting: connected all scenes
+  For next meeting: WebGL to put into browser
+  Obstacles: Don't know how to use WebGl
+ Irvin -
+  Since last meeting: finished store
+  For next meeting: currency, health objects
+  Obstacles: need currency system
+ CJ -
+  Since last meeting: started implementation of dialogue
+  For next meeting: Finish dialogue
+  Obstacles: Few resources
