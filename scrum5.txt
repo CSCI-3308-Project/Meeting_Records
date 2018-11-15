@@ -1,0 +1,18 @@
+Scrum Meeting 5 - 8 Nov 2018
+ In attendance - all 
+ Joshua -
+  Since last meeting: Started HTML and WebGL
+  For next meeting: Consider in-game splash/login
+  Obstacles: Problems between VS/Unity bridge
+ Irvin -
+  Since last meeting: Completed shop
+  For next meeting: Shop/scene integration
+  Obstacles: Difficulties maintaining shop between scenes
+ CJ - 
+  Since last meeting: Dialogue system
+  For next meeting: Will implement in unity
+  Obstacles: Learn more about Unity
+ Jon -
+  Since last meeting: Map/world textures (islands, trees, etc.)
+  For next meeting: Rivers, mountain, and synchronization
+  Obstacles: Conflicts between github and google drive

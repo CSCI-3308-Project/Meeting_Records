@@ -1,0 +1,10 @@
+Scrum Meeting 6 - 15 Nov 2018
+ In attendance - all 
+ Joshua -
+  NodeJS once Database implemented to connect with HTML 
+ Irvin -
+  Implementation of health and currency
+ CJ - 
+  Dialogue system fully implemented
+ Jon -
+  Database (save states and )
